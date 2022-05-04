@@ -1,1 +1,1 @@
-# nft-hunter
+# NFT Hunter Telegram Bot
